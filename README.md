@@ -1,7 +1,7 @@
 # About
 My name is Artyom Perevalov. I'm 26 y.o.
 
-Currently UI/UX at Proektmarketing+1, as a UX/UI engineer, but looking for a full-time job as Frontend developer. I have been doing Frontend for about 1 year, usally working with VanillaJS, jQuery. I have experience in maintaining projects, fixing bugs.
+Currently working at Proektmarketing+1, as a UX/UI engineer, but looking for a full-time job as Frontend developer. I have been doing Frontend for about 1 year, usally working with VanillaJS, jQuery. I have experience in maintaining projects, fixing bugs.
 
 I've had small experience in VueJS, but for now I've decided to learn React.
 
