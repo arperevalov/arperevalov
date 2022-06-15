@@ -10,9 +10,8 @@ At free time I'm building services, that helps me do my work faster, better. Mos
 
 # Skills and achievements
 
-* HTML, CSS, JS, React
+* HTML, CSS, JS, React, Typescript
 * Webpack, Sass
-* a bit of Typescript (in process of learning)
 
 
 ![My Codewars rank](https://www.codewars.com/users/lovetraindriver/badges/large)
