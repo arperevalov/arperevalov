@@ -5,7 +5,7 @@ Currently working at Proektmarketing+1, as a UX/UI engineer, but looking for a f
 
 I've had small experience in VueJS, but for now I've decided to learn React.
 
-At free time I'm building services, that helps me do my work faster, better. Most times using JS, but interested in learning Python.
+At free time I'm building services, that helps me do my work faster, better. The main language that I use is JavaScript, but I also learn Java in my spare time.
 
 
 # Skills and achievements
