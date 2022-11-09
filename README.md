@@ -19,7 +19,8 @@ At free time I'm building services, that helps me do my work faster, better. The
 
 # Repos
 
-* [Magicard (WIP)](https://github.com/arperevalov/magicard) — my first pet-project. Its a board-game-helper. Basicaly it helps you to play some board games. You can start games, add players and count points. I have alot of interesting ideas to implement in nearest future.
-* [Learning React](https://github.com/arperevalov/learning-react) — repo, where I learn React from [IT-Kamasutra](https://www.youtube.com/c/ITKAMASUTRA).
+
+* [PingIP](https://github.com/arperevalov/PingIP-React) — app that helps to monitor IP-devices activity. You can ping IP's and get logs from all servers and devices you have. Made for factory IT-department.
 * [Lodashing](https://github.com/arperevalov/lodashing) — one wise man said once: "If you want to learn JS, you should go to [lodash documentation page](https://lodash.com/docs/4.17.15) and rewrite every single method, based on it's description". That is what I'm doing there.
 * [begrab](https://github.com/arperevalov/begrab) — Chrome Extension, that helps you download pics from Behance. Written once for my art director. Should say, really helps at work, when you have to collect references for project.
+* * [Magicard (WIP)](https://github.com/arperevalov/magicard) — my first pet-project. Its a board-game-helper. Basicaly it helps you to play some board games. You can start games, add players and count points. I have alot of interesting ideas to implement in nearest future.
