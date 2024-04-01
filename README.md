@@ -1,7 +1,7 @@
 # About
 My name is Artem Perevalov
 
-Frontend developer with 3 years of experience. I have a strong expertise in UI/UX. Main tools: JavaScript, TypeScript, HTML, SCSS. Additionally, I am studying the Rust programming language. I have experience in design development. For several years, I have been involved in organizing the "Behance Portfolio Review — KRSK" design event. I've also been coordinating the "Dev2Dev Chipec" conference, a software development-focused gathering aimed at sharing industry insights and innovations.
+I am an experienced professional in the field of software development and user interface design with over 5 years of experience in the IT industry. Additionally, I have actively participated in organizing the "Behance Portfolio Review - KRSK" design event and coordinated the "Dev2Dev Chipec" conference aimed at software developers to exchange industry ideas and innovations.
 
 # Skills and achievements
 
